@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: conradderbyshire.github.io/files/conrad_cv.pdf
+    url: /files/conrad_cv.pdf
 
   - title: "Portfolio"
     url: /portfolio/
