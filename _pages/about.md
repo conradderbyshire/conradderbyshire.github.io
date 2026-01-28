@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Conrad Derbyshire"
+title: "Hello, welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello, welcome to my homepage!
 
 I'm currently an Engineering Biology MSc(R) student at the University of Bristol working under the supervision of Professor Thomas Gorochowski.
 
