@@ -1,6 +1,6 @@
 ---
-title: "Cambridge University Summer Student Science Day Conference"
-excerpt: "Poster from research conference at end of summer internship 1<br/><img src='/images/internship_poster.pdf'>"
+title: "SLCU Summer Internship Research"
+excerpt: "End-of-project research poster presented at Cambridge University Summer Student Science Day Conference <br/><img src='/images/internship_poster.png'>"
 collection: portfolio
 ---
 
